@@ -6,10 +6,16 @@ This code runs with Caffe deep learning platform, "Yangqing Jia, Evan Shelhamer,
 If you find this code helpful, please consider to cite our work:
 
 @article{cao2020two,
+
   title={Two-stream convolutional neural network for non-destructive subsurface defect detection via similarity comparison of lock-in thermography signals},
+  
   author={Cao, Yanpeng and Dong, Yafei and Cao, Yanlong and Yang, Jiangxin and Yang, Michael Ying},
+  
   journal={NDT \& E International},
+  
   pages={102246},
+  
   year={2020},
+  
   publisher={Elsevier}
 }
