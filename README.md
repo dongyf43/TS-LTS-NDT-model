@@ -7,18 +7,15 @@ You can download testing data at https://pan.baidu.com/s/1thciN12GHHxeLU8pivfo2g
 
 If you find this code helpful, please consider to cite our work:
 
-@article{cao2020two,
-
-  title={Two-stream convolutional neural network for non-destructive subsurface defect detection via similarity comparison of lock-in thermography signals},
-  
-  author={Cao, Yanpeng and Dong, Yafei and Cao, Yanlong and Yang, Jiangxin and Yang, Michael Ying},
-  
-  journal={NDT \& E International},
-  
-  pages={102246},
-  
-  year={2020},
-  
-  publisher={Elsevier}
-  
-}
+>@article{CAO2020102246,<br>
+title = {Two-stream convolutional neural network for non-destructive subsurface defect detection via similarity comparison of lock-in thermography signals},<br>
+journal = {NDT & E International},<br>
+volume = {112},<br>
+pages = {102246},<br>
+year = {2020},<br>
+issn = {0963-8695},<br>
+doi = {https://doi.org/10.1016/j.ndteint.2020.102246},<br>
+url = {https://www.sciencedirect.com/science/article/pii/S0963869519306498},<br>
+author = {Yanpeng Cao and Yafei Dong and Yanlong Cao and Jiangxin Yang and Michael Ying Yang},<br>
+keywords = {Non-destructive testing, Lock-in thermography, Convolutional neural network, Similarity comparison},<br>
+}<br>
